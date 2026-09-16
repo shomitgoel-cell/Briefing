@@ -1,0 +1,44 @@
+# Free, no-key-required RSS sources used to build each day's briefing.
+# Feel free to add/remove feeds -- fetch_news.py skips any feed that fails to load.
+
+us:
+  keywords: [market, stock, econom, inflation, rate, tariff, trade, congress,
+             senate, white house, president, election, fed, treasury, dollar,
+             bank, jobs report, gdp, sanction, deal]
+  feeds:
+    - name: CNBC Markets
+      url: https://www.cnbc.com/id/20910258/device/rss/rss.html
+    - name: CNBC Economy
+      url: https://www.cnbc.com/id/20910258/device/rss/rss.html
+    - name: MarketWatch Top Stories
+      url: https://feeds.content.dowjones.io/public/rss/mw_topstories
+    - name: Politico Top News
+      url: https://www.politico.com/rss/politicopicks.xml
+    - name: Yahoo Finance News
+      url: https://finance.yahoo.com/news/rssindex
+
+global:
+  keywords: [market, trade, tariff, war, conflict, diplomat, sanction, election,
+             summit, oil, currency, central bank, geopolit, crisis, treaty,
+             minister, president, parliament, un ]
+  feeds:
+    - name: BBC World News
+      url: https://feeds.bbci.co.uk/news/world/rss.xml
+    - name: BBC Business
+      url: https://feeds.bbci.co.uk/news/business/rss.xml
+    - name: Al Jazeera - All
+      url: https://www.aljazeera.com/xml/rss/all.xml
+    - name: NPR World
+      url: https://feeds.npr.org/1004/rss.xml
+
+philippines:
+  keywords: []   # PH national feeds are already broadly relevant; no filtering
+  feeds:
+    - name: Rappler
+      url: https://www.rappler.com/feed/
+    - name: Philstar Headlines
+      url: https://www.philstar.com/rss/headlines
+    - name: Inquirer News
+      url: https://newsinfo.inquirer.net/feed
+    - name: BusinessWorld PH
+      url: https://www.bworldonline.com/feed/
