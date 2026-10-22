@@ -16,6 +16,15 @@
       <link>https://shomitgoel-cell.github.io/Briefing/</link>
     </image>
     <item>
+      <title>Briefing for 2026-10-22</title>
+      <description>Automated headline digest.</description>
+      <guid isPermaLink="false">https://shomitgoel-cell.github.io/Briefing/episodes/2026-10-22.mp3</guid>
+      <pubDate>Thu, 22 Oct 2026 01:11:40 +0000</pubDate>
+      <enclosure url="https://shomitgoel-cell.github.io/Briefing/episodes/2026-10-22.mp3" length="1165869" type="audio/mpeg" />
+      <itunes:duration>01:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Briefing for 2026-10-21</title>
       <description>Automated headline digest.</description>
       <guid isPermaLink="false">https://shomitgoel-cell.github.io/Briefing/episodes/2026-10-21.mp3</guid>
@@ -130,15 +139,6 @@
       <pubDate>Wed, 07 Oct 2026 23:11:42 +0000</pubDate>
       <enclosure url="https://shomitgoel-cell.github.io/Briefing/episodes/2026-10-08.mp3" length="1282221" type="audio/mpeg" />
       <itunes:duration>01:46</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Briefing for 2026-10-07</title>
-      <description>Automated headline digest.</description>
-      <guid isPermaLink="false">https://shomitgoel-cell.github.io/Briefing/episodes/2026-10-07.mp3</guid>
-      <pubDate>Tue, 06 Oct 2026 23:08:17 +0000</pubDate>
-      <enclosure url="https://shomitgoel-cell.github.io/Briefing/episodes/2026-10-07.mp3" length="1229805" type="audio/mpeg" />
-      <itunes:duration>01:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
